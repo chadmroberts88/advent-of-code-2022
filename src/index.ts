@@ -1,3 +1,2 @@
-import { solution3A, solution3B } from "./day3/solutions";
-solution3A();
-solution3B();
+import { solution6AB } from "./day6/solutions";
+solution6AB();
